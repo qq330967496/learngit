@@ -1,0 +1,28 @@
+[33mtag 0.8[m
+Tagger: 呵Sever <330967496@qq.com>
+Date:   Fri May 23 18:08:22 2014 +0800
+
+version 0.8 released
+
+[33mcommit ec49a3f17afc81b0888d4aad68bf3aa2cbbb1840[m
+Merge: 95d8ea6 7cef4b3
+Author: 呵Sever <330967496@qq.com>
+Date:   Fri May 23 17:42:29 2014 +0800
+
+    Merge branch 'dev'
+    
+    Conflicts:
+    	readme.txt
+
+[1mdiff --cc readme.txt[m
+[1mindex 106b415,62f4de6..94794a8[m
+[1m--- a/readme.txt[m
+[1m+++ b/readme.txt[m
+[36m@@@ -1,1 -1,1 +1,5 @@@[m
+[31m- aaaaaaaassss[m
+[31m -bbbbbbbbbbbbbbbbbbbb[m
+[32m++<<<<<<< HEAD[m
+[32m++aaaaaaaassss[m
+[32m++=======[m
+[32m++bbbbbbbbbbbbbbbbbbbb[m
+[32m++>>>>>>> dev[m
